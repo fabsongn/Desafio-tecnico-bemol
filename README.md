@@ -2,7 +2,7 @@
 
 Desafio tecnico bemol proposto como parte do processo seletivo de trainee digital
 
-### bibliotecas
+### Bibliotecas
 Neste projeto foi utilizado Python 3 e as seguintes bibliotecas:
 
 * [Pandas](https://pandas.pydata.org/)
@@ -15,7 +15,7 @@ O projeto foi desenvolvido na ferramenta Jupyter Notebook com a extensão ipynb,
 # Dados
 O dataset utilizado neste projeto é uma versão enviada pela empresa "dados.xlsx".
 
-# para executar o programa
+# Para executar o programa
 após abrir o prompt "Anaconda prompt(anaconda3)", execute o seguinte comando:
 
 `jupyter notebook`
