@@ -5,20 +5,20 @@ Desafio tecnico bemol proposto como parte do processo seletivo de trainee digita
 # bibliotecas
 Neste projeto foi utilizado Python 3 e as seguintes bibliotecas:
 
-Pandas
-csv
-matplotlib
+-Pandas
+-csv
+-matplotlib
 
-O projeto foi desenvolvido na ferramenta Jupyter Notebook com a extensão ipynb, que também necessita ser instalado. Para facilitar a instalação, caso você não possua Python instalado em seu computador, é recomendável que instale pelo Anaconda, esta ferramenta já vem com a maioria das bibliotecas necessárias para Data Science.
+O projeto foi desenvolvido na ferramenta Jupyter Notebook com a extensão ipynb, que também necessita ser instalado. Para facilitar a instalação, caso não possua Python instalado, é recomendável que instale pelo Anaconda, esta ferramenta possui a maioria das bibliotecas para Data Science.
 
 # Dados
 O dataset utilizado neste projeto é uma versão enviada pela empresa "dados.xlsx".
 
 # para executar o programa
-No prompt de comando ou no Anaconda prompt, execute o seguinte comando:
+após abrir o prompt "Anaconda prompt(anaconda3)", execute o seguinte comando:
 
 jupyter notebook
 
-E navegue manualmente até o diretório com o arquivo .ipybnb para executá-lo.
+E navegue manualmente até o diretório com o arquivo "Desafio técnico.ipybnb" para executá-lo.
 
-Acesso direto ao Notebook Jupyter
+Acesso ao localhost Notebook Jupyter
