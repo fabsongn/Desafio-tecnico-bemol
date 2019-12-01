@@ -1,0 +1,66 @@
+conda install -c anaconda openpyxl
+
+sheets['realizado'].iloc[1]
+https://www.youtube.com/watch?v=NBrLb2w6ed8
+https://www.youtube.com/watch?v=sspFLy0ju8E
+renomear index
+https://www.geeksforgeeks.org/python-change-column-names-and-row-indexes-in-pandas-dataframe/
+subtrair
+https://stackoverflow.com/questions/54540704/subtract-two-pandas-dataframes-joined-on-multiple-column-values   
+https://minerandodados.com.br/python-para-analise-de-dados/
+https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d
+http://felipegalvao.com.br/blog/2016/02/29/manipulacao-de-dados-com-python-pandas/
+https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93
+
+https://estatsite.com/2019/02/04/tutorial-tratando-sua-tabela-no-python-com-pandas/
+https://pandas.pydata.org/pandas-docs/stable/user_guide/merging.html
+https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-q1vbl9cd/lab
+
+https://docs.python.org/3/library/csv.html
+
+https://pbpython.com/pandas-excel-tabs.html
+https://colab.research.google.com/notebooks/charts.ipynb#scrollTo=bZv4MenQpYOF
+
+https://colab.research.google.com/notebooks/charts.ipynb
+
+https://stackoverflow.com/questions/37434227/how-to-open-xlsx-file-with-python-3/48869859#48869859
+
+https://medium.com/data-hackers/uma-introdu%C3%A7%C3%A3o-simples-ao-pandas-1e15eea37fa1
+
+https://tomas.wordpress.com/2017/02/16/lendo-um-arquivo-xlsx-com-python/
+https://letscode-academy.com/blog/aprenda-a-integrar-python-e-excel/
+
+https://stackoverflow.com/questions/52657191/python-pandas-get-specific-row-in-an-excel-and-save-to-a-new-sheet
+
+
+
+
+
+
+
+
+
+
+for line in realizado:  # iterando em todas as linhas da 'Plan1'
+   print (line[3]) # print a primeira célula da linha
+
+ 'C:\\Users\\f\\Documents\\BEMOL\\Desafio técnico-20191130T192230Z-001\\dados.xlsx'
+
+import pandas as pd
+file_errors_location = 'C:\\Users\\f\\Documents\\BEMOL\\Desafio técnico-20191130T192230Z-001\\dados.xlsx'
+df = pd.read_excel(file_errors_location)
+print(df)
+
+
+
+
+
+
+
+
+import pandas as pd
+from openpyxl import load_workbook
+wb = load_workbook('C:\\Users\\f\\Documents\\BEMOL\\Desafio técnico-20191130T192230Z-001\\dados.xlsx') # abrindo o Workbook dados.xlsx
+realizado = wb['realizado']
+orcado =wb['orcado']
+print(orcado)

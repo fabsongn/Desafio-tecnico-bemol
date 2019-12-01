@@ -1,0 +1,8 @@
+https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d
+
+https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-q1vbl9cd/lab
+
+https://docs.python.org/3/library/csv.html
+
+
+https://colab.research.google.com/notebooks/charts.ipynb
