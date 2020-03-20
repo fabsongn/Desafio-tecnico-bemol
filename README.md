@@ -1,6 +1,4 @@
-# Desafio-tecnico-bemol
 
-Desafio tecnico bemol proposto como parte do processo seletivo de trainee digital
 
 ### Bibliotecas
 Neste projeto foi utilizado Python 3 e as seguintes bibliotecas:
